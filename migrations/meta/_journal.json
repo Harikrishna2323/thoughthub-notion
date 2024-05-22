@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1712604007085,
+      "tag": "0000_wide_cammi",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1712652967521,
+      "tag": "0001_illegal_titanium_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1712653418056,
+      "tag": "0002_loose_polaris",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1712653918142,
+      "tag": "0003_sour_karnak",
+      "breakpoints": true
+    }
+  ]
+}
